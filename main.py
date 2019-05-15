@@ -4,6 +4,7 @@ from collections import defaultdict
 # Define earth (planet 18) and b3-r7-r4nd7 (planet 246)
 startPlanet = 18
 destinationPlanet = 246
+filePath = 'json.txt'
 
 
 def main():
@@ -11,7 +12,7 @@ def main():
     graph = Graph()
 
     # Read in file and parse data to graph
-    with open('json.txt') as json_file:
+    with open(filePath) as json_file:
         data = json.load(json_file)
         for p in data['edges']:
             cost = p['cost']
