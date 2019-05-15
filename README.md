@@ -1,4 +1,4 @@
-# Solution for coding challenge "Let's code from get in it
+# Solution for coding challenge "Let's code from get in it"
 
 In einer weit entfernten Galaxie, in der die Reise zwischen Planeten dank Raumschiffen und Hyperantrieb kein Problem darstellt, findet das alljährliche Wettrennen der besten Coder an den interplanetarischen Hochschulen statt. Du hast die Chance dabei zu sein! Entwickle einen interstellaren Algorithmus, der Dich auf dem kürzesten Weg ins Ziel navigiert. Dort angekommen hast Du die Chance auf eine DJI Mavic Air Drohne! 
 
